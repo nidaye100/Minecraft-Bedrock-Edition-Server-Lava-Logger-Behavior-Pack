@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Lava Logger",
+        "description": "记录玩家放置岩浆的信息",
+        "uuid": "b8a95ab3-01e4-4370-a33a-96becaf8ea2d",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 20, 0]
+    },
+    "modules": [{
+        "type": "script",
+        "uuid": "331bb6a7-ae93-4155-827b-c0fd0c6c6488",
+        "version": [1, 0, 0],
+        "entry": "scripts/lavaLogger.js"
+    }],
+    "dependencies": [{
+        "module_name": "@minecraft/server",
+        "version": "1.5.0"
+    }]
+}
