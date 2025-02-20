@@ -6,33 +6,30 @@
 ----------------------------------------------------------------------------
 
 ## 路径一览：
-'
+```
  behavior_packs/
   ├── LavaLogger/
   │   ├── manifest.json
   │   ├── scripts/
   │   │   ├── lavaLogger.js
   │   ├── pack_icon.png  (可能没有)
-'
+```
 ---------------------------------------------------------------------------
 
 ## 启用 Behavior Pack：
 
  ### 1）在 BDS 服务器根目录 找到 server.properties，确保：
 
-      'script-engine=enabled'
+      `script-engine=enabled`
 
   如果是 false，需要改为 enabled 并重启服务器。
 
  ### 2）在server.properties，确保：
 
-      'script-engine-enabled=true'
-      
-      'script-engine=enabled'
-      
-      'content-log-console-output-enabled=true'
-      
-      'emit-server-telemetry=true'
+      `script-engine-enabled=true`
+      `script-engine=enabled`
+      `content-log-console-output-enabled=true`
+      `emit-server-telemetry=true`
 
     前两项如若没有可自行加入。
 
