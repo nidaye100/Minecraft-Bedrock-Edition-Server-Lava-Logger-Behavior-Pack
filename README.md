@@ -59,5 +59,5 @@ A behavior pack that can track players' use of lava and output the records to th
 文件内容及注意事项大致如此，该行为包只可在原版基岩服务器中使用，如有进一步的问题请及时联系作者
 1. 该行为包包含两个主要文件，分别是lavaLogger.js的JavaScript和manifest.json的JSON
 2. 使用的 API 为@minecraft/server API（版本 1.5.0）
-3. 
-4. 
+3. 仅在1.21.50版本服务器当中实测过
+
