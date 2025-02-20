@@ -27,11 +27,14 @@
  ### 2）在server.properties，确保：
 
       `script-engine-enabled=true`
+      
       `script-engine=enabled`
+      
       `content-log-console-output-enabled=true`
+      
       `emit-server-telemetry=true`
 
-    前两项如若没有可自行加入。
+  前两项如若没有可自行加入。
 
 ---------------------------------------------------------------------------
 
