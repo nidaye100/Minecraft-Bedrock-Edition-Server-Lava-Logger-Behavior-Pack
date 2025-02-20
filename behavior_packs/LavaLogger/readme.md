@@ -51,5 +51,5 @@
 文件内容及注意事项大致如此，该行为包只可在原版基岩服务器中使用，如有进一步的问题请及时联系作者
 1. 作者：nidaye100（ndy100）
 2. github:https://github.com/nidaye100/Minecraft-Bedrock-Edition-Server-Lava-Logger-Behavior-Pack/tree/main
-3. mail：buquzhijisithe@gmail.com
+3. 请在GitHub的issues中提问
 4. 2025/2/21
